@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: addc8951da7d3c746b3fbb499cc78ae4
+timeCreated: 1437967576
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Visual/Animation/Effects/Puff.controller
+  uploadId: 238529

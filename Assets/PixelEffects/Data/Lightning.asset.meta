@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e0ca7b51941bba64aa0958fab63f7bed
+timeCreated: 1438176416
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Data/Lightning.asset
+  uploadId: 238529

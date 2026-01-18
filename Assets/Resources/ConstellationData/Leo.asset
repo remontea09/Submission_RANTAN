@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a485b9cd974c08c4a9e837ced09f8a43, type: 3}
+  m_Name: Leo
+  m_EditorClassIdentifier: 
+  constellationCategory: 1
+  nodePositions:
+  - {x: -1251.765, y: -45.88}
+  - {x: -986.765, y: -1095.88}
+  - {x: -861.765, y: -895.88}
+  - {x: -786.765, y: -300.88}
+  - {x: -711.765, y: -630.88}
+  - {x: -636.765, y: 434.12}
+  - {x: -601.765, y: 29.12}
+  - {x: 78.235, y: -475.88}
+  - {x: 288.235, y: 434.12}
+  - {x: 318.235, y: 699.12}
+  - {x: 528.235, y: 229.12}
+  - {x: 528.235, y: -375.88}
+  - {x: 538.235, y: -120.88}
+  - {x: 668.235, y: 924.12}
+  - {x: 833.235, y: 784.12}
+  - {x: 933.235, y: -345.88}
+  - {x: 1123.235, y: 754.12}
+  edges:
+  - {x: 0, y: 5}
+  - {x: 0, y: 6}
+  - {x: 1, y: 2}
+  - {x: 2, y: 4}
+  - {x: 3, y: 4}
+  - {x: 3, y: 6}
+  - {x: 5, y: 8}
+  - {x: 6, y: 12}
+  - {x: 7, y: 11}
+  - {x: 7, y: 12}
+  - {x: 8, y: 9}
+  - {x: 8, y: 10}
+  - {x: 9, y: 13}
+  - {x: 10, y: 12}
+  - {x: 11, y: 15}
+  - {x: 13, y: 14}
+  - {x: 14, y: 16}

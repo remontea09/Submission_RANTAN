@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8aae817812dd564baf690f76377fc43
+timeCreated: 1437886234
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Visual/Animation/Effects/Earth.controller
+  uploadId: 238529

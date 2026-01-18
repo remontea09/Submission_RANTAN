@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 726bdbeec04cf2440a87a31d5e0c340c
+timeCreated: 1437872512
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Visual/Animation/Effects/Heal.controller
+  uploadId: 238529

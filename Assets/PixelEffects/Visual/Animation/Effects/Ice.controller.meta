@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 17c1ec678ac1d674984122ead1998e40
+timeCreated: 1437887207
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Visual/Animation/Effects/Ice.controller
+  uploadId: 238529

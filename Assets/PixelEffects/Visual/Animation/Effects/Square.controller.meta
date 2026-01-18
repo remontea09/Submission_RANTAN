@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 951ba9a3fd382614f97878f9eaec8fe2
+timeCreated: 1437869964
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Visual/Animation/Effects/Square.controller
+  uploadId: 238529

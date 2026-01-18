@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bc6c0c877fed164dadab907cfbd5946, type: 3}
+  m_Name: StatusBuffSkillData_310
+  m_EditorClassIdentifier: 
+  id: 310
+  skillName: 100
+  power: 40
+  sprite: {fileID: 21300000, guid: f5f49926f835c8c428620c8b54254573, type: 3}
+  redEnergy: 0
+  greenEnergy: 7
+  blueEnergy: 7
+  range: 100
+  effect: {fileID: 9100000, guid: d46c616b1192c334ca8f949d06e5599b, type: 2}
+  category: 1
+  unlockCost: 15
+  nextSkillData: {fileID: 0}
+  duration: 3
+  types: 0300
+  formula: 4
+  descriptionText: "\u9632\u5FA1\u306B{power}%\u306E\u52A0\u7B97\u88DC\u6B63"

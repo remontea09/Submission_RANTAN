@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d544a9617090ad64987e8857277d8a40
+timeCreated: 1438176656
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Data/Loop/Selection.asset
+  uploadId: 238529

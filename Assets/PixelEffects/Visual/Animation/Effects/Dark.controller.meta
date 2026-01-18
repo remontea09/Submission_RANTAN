@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6cefad8fa365a62459544a8ee51f1521
+timeCreated: 1438658167
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Visual/Animation/Effects/Dark.controller
+  uploadId: 238529

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c14d3b5f4cd68324da72cf2f05211844
+timeCreated: 1436200713
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Visual/Animation/Effects/Loop/Sleep.controller
+  uploadId: 238529

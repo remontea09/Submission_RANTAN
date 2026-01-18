@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5619c61c14ded2f4d8ed79f18f6a4d94, type: 3}
+  m_Name: DungeonData_003
+  m_EditorClassIdentifier: 
+  id: 3
+  floorTile: {fileID: 11400000, guid: a817de9386d733a4aaf3976b0f5abfed, type: 2}
+  wallTile: {fileID: 11400000, guid: 712ef7fa7744a974a898f3a169c9f8f9, type: 2}
+  flowerSprite: {fileID: 21300000, guid: 22f605abdcf7c5c4ca9771c9f943e2d2, type: 3}
+  bgm: {fileID: 8300000, guid: f29182df5ceb130459f3983a8a5a19f9, type: 3}
+  nextDungeonData: {fileID: 11400000, guid: 3b4d7de3054c5614b8b8b58c8203fd76, type: 2}
+  enemyMainDataArray:
+  - {fileID: 11400000, guid: 4ae037297a86c5346a5d603f87bb62d8, type: 2}
+  - {fileID: 11400000, guid: ccb22d6c6b3edaa4b9f9fc765ba60ad8, type: 2}
+  - {fileID: 11400000, guid: b36f311a465caf341b5364871f8ca3ec, type: 2}
+  - {fileID: 11400000, guid: 569940b05f632994c801a7b4553388a7, type: 2}

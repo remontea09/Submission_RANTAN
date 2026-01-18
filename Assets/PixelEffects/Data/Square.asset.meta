@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 297ab4d68d41a7242bab1e724bea9021
+timeCreated: 1438176511
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Data/Square.asset
+  uploadId: 238529

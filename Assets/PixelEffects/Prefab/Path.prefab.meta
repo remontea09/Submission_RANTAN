@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7cabe2baa5a86b247b43c021e54035b6
+timeCreated: 1427643070
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Prefab/Path.prefab
+  uploadId: 238529

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c53087f6503bac44b99e6d06a235152a
+timeCreated: 1427642858
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Visual/Animation/Effects/Path.controller
+  uploadId: 238529

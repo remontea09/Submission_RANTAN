@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 670c0ff842a452444b776ce54270fceb
+timeCreated: 1438627704
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Visual/Animation/Effects/SplatterBlood.controller
+  uploadId: 238529

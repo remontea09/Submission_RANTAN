@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b807409a1a42c634baadbe9ff7a74952, type: 3}
+  m_Name: EnemyMainData_004
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 56b6c8158ec732844b6e75aa784aad62, type: 3}
+  enemyName: "\u30D0\u30A6\u30EF\u30A6"
+  defaultHp: 240
+  defaultMagicPower: 270
+  defaultDefense: 80
+  defaultSpeed: 90
+  skillData: {fileID: 11400000, guid: 09f680e99d0432a43b4d8b7151008a53, type: 2}
+  viewSide: 11

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a72b09885412db43a64f1b3da357f83, type: 3}
+  m_Name: Tenshi_Portrait_Catalog
+  m_EditorClassIdentifier: 
+  items:
+  - id: nomal
+    sprite: {fileID: -6789122695227767240, guid: 6e6b0edaccd8f174fb97a166b7bfcbf9, type: 3}
+  - id: kutiake
+    sprite: {fileID: -1494360527170102499, guid: 4c960e715ecc0a9428c080714c51f96b, type: 3}
+  - id: mu
+    sprite: {fileID: 1804187620802933545, guid: f4377b2a940e5b04a943fcc1933e8b9c, type: 3}
+  - id: yokomi
+    sprite: {fileID: -4110829877044928046, guid: 16214b8e410c20b4ebe183bbc710f8f2, type: 3}
+  - id: hiai
+    sprite: {fileID: 6543661513938182854, guid: c56669c9ff03fb94bad00da9cc10b9e3, type: 3}
+  - id: smile
+    sprite: {fileID: 2519171370705460509, guid: e56ef399f93d0d641b9f6ac35c46e422, type: 3}
+  - id: bigsmile
+    sprite: {fileID: -4501888532582721318, guid: 9b409dd096e6cc848bbda9365f7c6e62, type: 3}
+  - id: metoji
+    sprite: {fileID: 966716206002768517, guid: 9fc1e17ff57505f4487c1deddd132fb2, type: 3}
+  - id: shadow
+    sprite: {fileID: 7402650940319754903, guid: ee0cc72210d520a45afe29d03f163b51, type: 3}
+  - id: engel
+    sprite: {fileID: 231590338897323084, guid: 57f37d6829be6e049a3811d616c5c7c2, type: 3}

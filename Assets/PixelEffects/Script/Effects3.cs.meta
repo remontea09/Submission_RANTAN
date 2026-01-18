@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 226b09ca5aadc0c4288473ce27699fae
+timeCreated: 1456411805
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Script/Effects3.cs
+  uploadId: 238529

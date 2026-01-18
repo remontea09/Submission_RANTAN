@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ce15bfe32758c74dba116abf13b6850, type: 3}
+  m_Name: PlayerMainData_002
+  m_EditorClassIdentifier: 
+  id: 2
+  playerSprite: {fileID: -6457156868876233836, guid: cb7cbde9ca47a1a43ad2d3a2a5e4bd5b, type: 3}
+  playerName: "\u30C6\u30F3\u30B7"
+  defaultHp: 500
+  defaultMagicPower: 10
+  defaultDefense: 60
+  defaultSpeed: 100

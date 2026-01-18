@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 84f7029c817944844b2b9602ae81eda1
+timeCreated: 1438176322
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Data/Consume.asset
+  uploadId: 238529

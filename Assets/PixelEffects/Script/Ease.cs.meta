@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8a165115ac4983b4dbd0f22dbe3df836
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Script/Ease.cs
+  uploadId: 238529

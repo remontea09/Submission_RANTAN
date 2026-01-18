@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 583b695e3282db3409dd74cdc1893eca
+timeCreated: 1438176436
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Data/Poison.asset
+  uploadId: 238529

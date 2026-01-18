@@ -1,0 +1,19 @@
+# テキストファイルはすべて LF に統一
+* text=auto eol=lf
+# C#, シェーダー, スクリプトなどコード類は LF
+*.cs     text eol=lf
+*.shader text eol=lf
+*.cginc  text eol=lf
+# Unity の設定ファイル（YAML系）は LF
+*.unity  text eol=lf
+*.prefab text eol=lf
+*.asset filter=lfs diff=lfs merge=lfs -text
+*.meta   text eol=lf
+*.renderTexture text eol=lf
+# バイナリは変換しない
+*.png binary
+*.jpg binary
+*.dll binary
+*.exe binary
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text

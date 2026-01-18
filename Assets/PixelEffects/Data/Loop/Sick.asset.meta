@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd55dd1351c1d634d87854990923862c
+timeCreated: 1438176657
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Data/Loop/Sick.asset
+  uploadId: 238529

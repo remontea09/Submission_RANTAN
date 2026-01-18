@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e8305e8ebeb8a744cad9cd8e05ffcbcc
+timeCreated: 1433948558
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Script/ModelEffectAnimation.cs
+  uploadId: 238529

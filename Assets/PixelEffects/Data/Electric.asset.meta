@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dfd1d7bd24c0f62499a081c5699dc3ca
+timeCreated: 1438176348
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Data/Electric.asset
+  uploadId: 238529

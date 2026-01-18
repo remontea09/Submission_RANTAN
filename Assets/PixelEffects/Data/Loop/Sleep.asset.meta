@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 182f1b4242fe6644e888242f62791434
+timeCreated: 1438176658
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Data/Loop/Sleep.asset
+  uploadId: 238529

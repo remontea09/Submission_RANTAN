@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cf638012dadbd54594ec18fa4d05831, type: 3}
+  m_Name: OnTurnEndBuffSkillData_306
+  m_EditorClassIdentifier: 
+  id: 306
+  skillName: "\u6551\u6E08\u306E\u7948\u308A"
+  power: 120
+  sprite: {fileID: 21300000, guid: 998a81d8e04904e4db9d04007624eb2d, type: 3}
+  redEnergy: 2
+  greenEnergy: 2
+  blueEnergy: 8
+  range: 100
+  effect: {fileID: 9100000, guid: ca64883c296c84542b871bde1e5d4606, type: 2}
+  category: 1
+  unlockCost: 9
+  nextSkillData: {fileID: 0}
+  buffType: 200
+  duration: 4
+  descriptionText: "\u6BCE\u30BF\u30FC\u30F3HP\u3092{power}\u56DE\u5FA9"

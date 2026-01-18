@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79899c2245f4d5a49927bcc6f26aab2e
+timeCreated: 1438176425
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Data/Nuclear.asset
+  uploadId: 238529

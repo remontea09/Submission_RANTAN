@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8bf65d8052c9c1b4f909676c5404b041
+timeCreated: 1437961280
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Visual/Animation/Effects/Web.controller
+  uploadId: 238529

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 005e619aa633053438b88cdefda2d987
+timeCreated: 1438664539
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Data/SplatterSlime.asset
+  uploadId: 238529

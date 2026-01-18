@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4e4d566befc805148aecf600a067d78a
+timeCreated: 1438176564
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Data/Water.asset
+  uploadId: 238529

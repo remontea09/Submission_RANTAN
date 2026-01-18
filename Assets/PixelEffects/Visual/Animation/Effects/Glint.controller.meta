@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 84601792e8969864d9f32b34d6d04ef5
+timeCreated: 1437967291
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Visual/Animation/Effects/Glint.controller
+  uploadId: 238529

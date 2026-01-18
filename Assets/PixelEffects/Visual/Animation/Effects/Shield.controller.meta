@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d46c616b1192c334ca8f949d06e5599b
+timeCreated: 1437871395
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Visual/Animation/Effects/Shield.controller
+  uploadId: 238529

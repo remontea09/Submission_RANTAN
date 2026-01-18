@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c648a7350ff5504d93a43038eef6102
+timeCreated: 1438176462
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Data/Shield.asset
+  uploadId: 238529

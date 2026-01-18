@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ff7c5d9fe566d1d409ec49a720ccb797
+timeCreated: 1456411807
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Script/Effects5.cs
+  uploadId: 238529

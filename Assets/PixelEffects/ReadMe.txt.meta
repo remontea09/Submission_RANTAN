@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f3bc179d4eab6844ca0af9c941f2f3cf
+timeCreated: 1522528473
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/ReadMe.txt
+  uploadId: 238529

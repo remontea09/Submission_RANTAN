@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 336edd88d0f276642b55ae37f346c60d
+timeCreated: 1437964048
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Visual/Animation/Effects/Circle.controller
+  uploadId: 238529

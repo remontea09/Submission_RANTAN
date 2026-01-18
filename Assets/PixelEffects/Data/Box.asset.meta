@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 94e063bd619af4342ac01862b5e548fd
+timeCreated: 1438176283
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Data/Box.asset
+  uploadId: 238529

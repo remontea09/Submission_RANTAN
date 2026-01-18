@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: adbe51a5301abcf4ba3b09bea946995c
+timeCreated: 1438663033
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Visual/Animation/Effects/SplatterSlime.controller
+  uploadId: 238529

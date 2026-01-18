@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6b506a7e42917d6489d0e806d6b4f62d
+labels:
+- Font
+- Sprite
+- Material
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Visual/Font/Venice.fontsettings
+  uploadId: 238529

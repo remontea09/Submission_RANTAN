@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 88db2184957c8f044bd2d23190eff0ff
+timeCreated: 1437875514
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Visual/Animation/Effects/Box.controller
+  uploadId: 238529

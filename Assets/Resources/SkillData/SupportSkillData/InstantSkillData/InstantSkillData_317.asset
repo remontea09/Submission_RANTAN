@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f847f0c26cbc0af40a49bc1df21be509, type: 3}
+  m_Name: InstantSkillData_317
+  m_EditorClassIdentifier: 
+  id: 317
+  skillName: "\u6642\u5EF6\u306E\u52A0\u8B77"
+  power: 4
+  sprite: {fileID: 21300000, guid: 03656c7f36910474aae9c73362e13b4d, type: 3}
+  redEnergy: 2
+  greenEnergy: 1
+  blueEnergy: 1
+  range: 100
+  effect: {fileID: 9100000, guid: 4379770e16f97124b804077bceb419c9, type: 2}
+  category: 1
+  unlockCost: 30
+  nextSkillData: {fileID: 0}
+  descriptionText: "\u767A\u52D5\u4E2D\u306E\u30D0\u30D5\u306E\u52B9\u679C\u30BF\u30FC\u30F3\u3092{power}\u30BF\u30FC\u30F3\u5EF6\u9577"

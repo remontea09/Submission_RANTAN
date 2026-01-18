@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4379770e16f97124b804077bceb419c9
+timeCreated: 1437883532
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113583
+  packageName: Pixel Effects
+  packageVersion: 1.0
+  assetPath: Assets/PixelEffects/Visual/Animation/Effects/Sparks.controller
+  uploadId: 238529
